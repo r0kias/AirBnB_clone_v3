@@ -148,22 +148,5 @@ EOF  all  create  destroy  help  quit  show  update
 ## Bugs
 No known bugs at this time. 
 
-## Authors
-
-###### Version 3
-
-- Jane Njoroge - [Github](https://github.com/Enaj-ciiru)
-- Calvin Tom - [Github](https://github.com/calvincetom) 
-
-###### Version 2
-
-- Jane Njoroge - [Github](https://github.com/Enaj-ciiru) 
-- Floernce Wangui - [Github](https://github.com/Florence-wangui) 
-
-###### Version 1
-
-- Jane Njoroge - [Github](https://github.com/Enaj-ciiru)
-- Floernce Wangui - [Github](https://github.com/Florence-wangui) 
-
 ## License
 Public Domain. No copywrite protection. 
